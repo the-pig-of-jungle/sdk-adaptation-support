@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">sdk-adaptation-support</string>
+    <string name="file_provider_authorities">com.coder.zzq.system.version.sdk.adaptation.FILE_PROVIDER</string>
 </resources>

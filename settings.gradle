@@ -1,2 +1,3 @@
 rootProject.name='sdk-adaptation-support'
 include ':app'
+include ':thirdpartylib'
